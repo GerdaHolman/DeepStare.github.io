@@ -1,7 +1,7 @@
 # DeepStare.github.io
 # About
   This code consists of 2 files. 1 HTML with JS embedded, and is linked to a CSS file. 
-  The project demonstrates the power of HTML, JS, and CSS when working in concert. 
+  The project demonstrates the power of HTML, JS, and CSS when working in concert. The project uses minimal code and is incredibly effective.  
   When the files are loaded there are a pair of amused eyes that follow your cursors every move.
   
 # Upcoming features
